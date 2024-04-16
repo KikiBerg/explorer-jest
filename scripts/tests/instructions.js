@@ -1,5 +1,5 @@
 // npm init
-//test command: jest
+// test command: jest
 // keep all the other defaults
 // npm install jest --save-dev
 // try npm test
